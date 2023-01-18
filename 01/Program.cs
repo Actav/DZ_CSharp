@@ -4,7 +4,7 @@
 782 -> 8
 918 -> 1
 */
-
+/*
 int num = 0;
 bool isNumeric = false;
 while (!isNumeric || num < 100 || num > 999) {
@@ -18,17 +18,17 @@ while (!isNumeric || num < 100 || num > 999) {
 int numOut = (num % 100) / 10;
 
 Console.WriteLine(numOut);
-
+/**/
 // ------------------------- //
 
 // Если уточнено что числа только положительные //
-/*
+/**/
 int num = 0;
 bool isNumeric = false;
 while (!isNumeric) {
     Console.Write("Введите трехзначное число число: ");
     string? numIn = Console.ReadLine();
-    isNumeric = int.TryParse(numIn, out num) && numIn?.Length != 3;
+    isNumeric = int.TryParse(numIn, out num) && numIn?.Length == 3;
 }
 
 int numOut = (num % 100) / 10;
