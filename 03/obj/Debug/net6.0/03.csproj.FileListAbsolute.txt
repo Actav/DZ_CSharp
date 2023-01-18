@@ -1,0 +1,15 @@
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\bin\Debug\net6.0\03.exe
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\bin\Debug\net6.0\03.deps.json
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\bin\Debug\net6.0\03.runtimeconfig.json
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\bin\Debug\net6.0\03.dll
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\bin\Debug\net6.0\03.pdb
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.csproj.AssemblyReference.cache
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.dll
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\refint\03.dll
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.pdb
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+H:\##_Ucheba_##\DZ\Знакомство с языками программирования (семинары)\DZ_CSharp\03\obj\Debug\net6.0\ref\03.dll
