@@ -10,7 +10,7 @@ bool isNumeric = false;
 int num = 0;
 
 while (!isNumeric) {
-    Console.Write("Введите трехзначное число число: ");
+    Console.Write("Введите число: ");
     isNumeric = int.TryParse(Console.ReadLine(), out num);
 }
 
@@ -22,6 +22,7 @@ if (num > 99) {
         num /= 10; 
         if (num > 99 && num < 1000) {
             System.Console.WriteLine(num % 10);
+            return;
         }
     }
 } else {

@@ -8,7 +8,7 @@
 int num = 0;
 bool isNumeric = false;
 while (!isNumeric || num < 100 || num > 999) {
-    Console.Write("Введите трехзначное число число: ");
+    Console.Write("Введите трехзначное число: ");
     isNumeric = int.TryParse(Console.ReadLine(), out num);
     if (isNumeric) {
         num = Math.Abs(num);
