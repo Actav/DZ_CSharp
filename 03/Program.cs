@@ -20,7 +20,7 @@ if (N == 0) {
     int i = 0;
     while ((N > 0 && i < N) || (N < 0 && i > N)) {
         i = N > 0 ? i+1 : i-1;
-        int cubeN = (int)Math.Pow(i, 3);
+        double cubeN = Math.Pow(i, 3);
         Console.Write(cubeN + (Math.Abs(i) < Math.Abs(N) ? ", " : "\n"));
     }
 }
