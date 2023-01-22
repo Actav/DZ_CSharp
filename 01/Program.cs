@@ -20,7 +20,7 @@ while (!isNumeric) {
     }
 }
 
-Console.WriteLine($"Введенное число {(CheckNumsToPalindrome(num) ? "" : "не ")}является палиндромом\n");
+Console.WriteLine($"{num} -> {(CheckNumsToPalindrome(num) ? "да" : "нет")}");
 
 // --- FUNCs --- //
 bool CheckNumsToPalindrome(int num) {
