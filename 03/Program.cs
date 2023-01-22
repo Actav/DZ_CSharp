@@ -9,11 +9,18 @@ bool isNumeric = false;
 int N = 0;
 
 while (!isNumeric) {
-    Console.Write("Введите пятизначное число: ");
+    Console.Write("Введите число: ");
     isNumeric = int.TryParse(Console.ReadLine(), out N);
 }
 
 Console.Write($"{N} -> ");
-for (int i = 0; i < N; i++) {
-    Console.Write((int)Math.Pow(i+1, 3) + (i < N-1 ? ", " : "\n"));
+if (N == 0) {
+    Console.Write("0\n");
+} else {
+    int i = 0;
+    while ((N > 0 && i < N) || (N < 0 && i > N)) {
+        i = N > 0 ? i+1 : i-1;
+        int cubeN = (int)Math.Pow(i, 3);
+        Console.Write(cubeN + (Math.Abs(i) < Math.Abs(N) ? ", " : "\n"));
+    }
 }
